@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondoMenu">#5895C7</color>
+    <color name="tituloTarea">#041785</color>
+    <color name="fondoCard">#E7E1A3</color>
+    <color name="colorTituloEdit">#C30B4A</color>
+    <color name="colorbtnGuardar">#11B618</color>
+    <color name="colorBtnVolver">#009688</color>
+</resources>

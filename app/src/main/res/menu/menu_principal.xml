@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcAddTarea"
+        android:title="Añadir Tarea" />
+    <item
+        android:id="@+id/opcOrdTarea"
+        android:title="Ordenar Tarea" >
+        <menu >
+            <item
+                android:id="@+id/opcOrdCate"
+                android:title="Por Categoria" />
+            <item
+                android:id="@+id/opcOrdFecha"
+                android:title="Por  fecha" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/opcSalir"
+        android:title="Salir" />
+</menu>

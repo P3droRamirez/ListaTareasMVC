@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PruebaEnClaseListas</string>
+    <string name="lblMenu">Listado de tareas</string>
+    <string name="opc1Menu">Nueva tarea</string>
+    <string name="opc2Menu">Ordenar</string>
+    <string name="opc3Menu">Salir</string>
+    <string name="opc1SubMenuOrd">Por categoria</string>
+    <string name="opc2SubMenuOrd">Por fecha</string>
+    <string name="opcNuevaTarea">Nueva Tarea</string>
+    <string name="mnuOrdenar">Ordenar</string>
+    <string name="opcOrdCategoria">Por categoria</string>
+    <string name="opcOrdFecha">Por fecha</string>
+    <string name="opcSalir">Salir</string>
+    <string name="lblCrearTarea">CREAR TAREA</string>
+    <string name="lblCategoria">Categoria</string>
+    <string name="rbOcio">Ocio</string>
+    <string name="rbDeporte">Deporte</string>
+    <string name="rbTrabajo">Trabajo</string>
+    <string name="rbEstudios">Estudios</string>
+    <string name="rbFamilia">Familia</string>
+    <string name="rbAmigos">Amigos</string>
+    <string name="btnVolver">VOLVER</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="tituloAlert">SALIR</string>
+    <string name="mnsjAlert">¿Desea salir de la app?</string>
+    <string name="mnsjPosiAlert">Si</string>
+    <string name="mnsjNegaAlert">No</string>
+    <string name="lblEditarTarea">EDITAR TAREA</string>
+    <string name="lblBtnActualizar">ACTUALIZAR</string>
+</resources>
